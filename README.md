@@ -2,7 +2,7 @@
  -->
 
 # Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
-I am a final year undergraduate student at VIT, Vellore pursuing my major in Computer Science. I have been intrigued by technology since my early childhood and consider it to be an important tool to solve societal problems. Curiosity and Problem Solving ability drives my interest in technology. I am open to collaboration on impactful projects where I can use my skills for greater good. Have experience in Python, Java, Dart, SQL and R.
+I am a final year undergraduate student at VIT, Vellore pursuing my major in Computer Science. I have been intrigued by technology since my early childhood and consider it to be an important tool to solve societal problems. Curiosity and Problem Solving ability drive my interest in technology. I am open to collaboration on impactful projects where I can use my skills for the greater good. Have experience in Python, Java, Dart, SQL and R.
 
 
 
